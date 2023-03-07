@@ -4,7 +4,7 @@
 
 ### Git
 
-- Faire un **fork** de ce dépôt ensuite un clone sur votre ordinateur et travailler dessus
+- Faire un **fork** de ce dépôt ensuite **cloner** sur votre ordinateur et travailler dessus
 - Entraîner vous à faire des **commits atomiques**
 - Envoyer (**push**) votre travail sur votre **fork github** crée précédemment
 - Cette étape est pas nécéssaire pour ceux qui m'ont déjà envoyé leur compte github : Envoyer moi par **email** votre **compte github** pour que je puisse voir votre travail
