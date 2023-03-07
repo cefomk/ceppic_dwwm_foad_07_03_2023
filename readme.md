@@ -23,9 +23,9 @@ Ce formulaire devra comprendre les champs :
 
 Pour la colonne `created_at`  insérer la date et l’heure lors de la validation du formulaire.
 
-Pour finir dans la page de ‘login` ne plus commenter les lignes sur le test sur le mot de passe.
+Pour finir dans la page de `login` ne plus commenter les lignes sur le test sur le mot de passe.
 
-Tester vos formulaires de ‘login’ et de ‘register’.
+Tester vos formulaires de `login` et de `register`.
 
 Pour toute question , merci de créer une issue.
 
